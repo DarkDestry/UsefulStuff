@@ -8,4 +8,4 @@ You can download Export.unitypackage to include it in your project.
 
 # Exporting the package yourself
 
-Assuming your unity is installed in the default directory, you can run Export.bat to auto export the library. Otherwise, open unity and export all the scripts in the Helper folder.
+Assuming your unity is installed in the default directory, you can run ExportPackage.bat to auto export the library. Otherwise, open unity and export all the scripts in the Helper folder.
